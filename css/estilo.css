@@ -1,0 +1,24 @@
+.bg-container{
+	background-image: url("../imagem/fundo.png" ) ;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+	background-size: cover;
+}
+
+@font-face{
+	font-family: "Caveat-Regular";
+    src: url("../fontes/Caveat-Regular.ttf");
+   
+   
+}
+
+
+h1.inicio{
+    font-family:"Caveat-Regular" !important;
+    color:black;
+    font-size: 7rem;
+    text-align: initial;
+    margin-top: 16rem;
+    
+}

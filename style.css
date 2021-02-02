@@ -1,0 +1,22 @@
+.bg-container{
+	background-image: url("imagem/fundo.png" ) ;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+	background-size: cover;
+}
+@font-face{
+	font-family: "Robot-Radicals";
+    src: url("fontes/Robot-Radicals.ttf");
+   
+   
+}
+
+h1.inicio{
+ font-family:"Robot-Radicals" !important;
+    color:white;
+    font-size: 6rem;
+    text-align: center;
+   
+    
+}
